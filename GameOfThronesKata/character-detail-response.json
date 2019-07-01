@@ -1,0 +1,17 @@
+{
+    "data": {
+    "name": "Tyrion Lannister",
+    "title": "Hand of the Queen",
+    "status": "That's what I do: I drink and I know things.",
+    "siblings": [
+        {
+            "name": "Cersei Lannister",
+            "dateOfBirth": "3 June 1532"
+        },
+        {
+            "name": "Jaime Lannister",
+            "dateOfBirth": "4 June 1532"
+        }
+    ]
+}
+}
